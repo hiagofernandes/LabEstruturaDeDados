@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-02-13T14:26:50.291-0300</date>
+  <logger>HIAGO NATAN FERNANDES DE SOUSA</logger>
+  <level>FINE</level>
+  <message>File 116210587-HIAGO NATAN FERNANDES DE SOUSA.zip was received. It was sent by HIAGO NATAN FERNANDES DE SOUSA from IP 150.165.74.136</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-02-13T22:30:44.490-0300</date>
+  <logger>HIAGO NATAN FERNANDES DE SOUSA</logger>
+  <level>FINE</level>
+  <message>File 116210587-HIAGO NATAN FERNANDES DE SOUSA.zip was received. It was sent by HIAGO NATAN FERNANDES DE SOUSA from IP 192.168.25.31</message>
+</record>
